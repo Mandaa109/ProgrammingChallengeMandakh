@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingChallengeMandakh", "ProgrammingChallengeMandakh\ProgrammingChallengeMandakh.csproj", "{588930D9-ABD3-4579-99C3-5834E268F6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588930D9-ABD3-4579-99C3-5834E268F6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588930D9-ABD3-4579-99C3-5834E268F6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588930D9-ABD3-4579-99C3-5834E268F6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588930D9-ABD3-4579-99C3-5834E268F6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C12A14-A2A8-4497-A50A-4DA2271A4FB0}
+	EndGlobalSection
+EndGlobal
